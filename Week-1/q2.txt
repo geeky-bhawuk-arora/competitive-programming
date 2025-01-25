@@ -12,7 +12,7 @@ The digital root (also known as the repeated digital sum) of a number is the sin
 
 For example:
 The digital root of 123 is calculated as follows: 1+2+3=6
-. The result is 6, a single digit, so the digital root is 6.
+The result is 6, a single digit, so the digital root is 6.
 
 Read more about digital root here
 
