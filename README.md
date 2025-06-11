@@ -1,1 +1,1 @@
-# cp-nptel
+# cp-practice
